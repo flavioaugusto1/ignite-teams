@@ -1,5 +1,5 @@
 import styled from "styled-components/native";
-import { CaretLeft } from 'phosphor-react-native'
+import CaretLeft from "phosphor-react-native/src/icons/CaretLeft";
 
 
 export const Container = styled.View`
@@ -15,7 +15,6 @@ export const Logo = styled.Image`
 `
 
 export const  BackIcon = styled(CaretLeft).attrs(({ theme }) => ({
-  
 }))`
 
 `;
