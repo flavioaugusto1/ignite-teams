@@ -19,8 +19,7 @@ export function NewGroup() {
         />
 
         <Input 
-          placeholder="Nome do usuário"
-          // placeholderTextColor={({ theme }) => theme.COLORS.}
+          placeholder="Nome da turma"
         />
 
         <Button 
