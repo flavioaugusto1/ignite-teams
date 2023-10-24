@@ -1,5 +1,5 @@
-import { FlatList } from 'react-native';
 import { useState } from 'react'
+import { FlatList } from 'react-native';
 
 import { Header } from '@components/Header';
 import { Highlight } from '@components/Highlight';
